@@ -21,6 +21,7 @@ A simple cost of living calculator built in Excel, based on Numbeo data. The use
 
 ## Credits
 - Data source: [Numbeo](https://www.numbeo.com)
+- Image: Designed by Freepik
 
 ## Updates
 - None
