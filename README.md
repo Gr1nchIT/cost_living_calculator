@@ -1,6 +1,6 @@
 # Cost Living Calculator
 
-**_Note: This calculator is intended as additional information for your research. It is not a deterministic model and is based on personal hypotheses._**
+**_Note: This calculator is intended as additional information for your research. It is not a deterministic model and it is based on personal hypotheses._**
 
 ## Description
 A simple cost of living calculator built in Excel, based on Numbeo data. The user can adjust the following data:
